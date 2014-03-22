@@ -27,7 +27,7 @@
         "phpmd/phpmd": "1.5.*"
     },
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "Fedeisas\\LaravelJsRoutes\\": "src/"
         },
         "classmap": [
